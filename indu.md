@@ -12,7 +12,8 @@
 # Test case 1 
 ## Data entry of rating (alphabetic) in Google spreadsheet – 2 (Evaluation of Self and Others and Evaluation of MD)
 |Summary|
-|---|
-|Tag|
 ### To test that 
 #### Description
+##### Prerequisite
+###### Chronological Task
+|---|---|
